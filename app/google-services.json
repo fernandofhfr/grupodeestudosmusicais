@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124506669034",
+    "firebase_url": "https://grupo-de-estudos-musicais.firebaseio.com",
+    "project_id": "grupo-de-estudos-musicais",
+    "storage_bucket": "grupo-de-estudos-musicais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124506669034:android:b8b10cc29ed43cb5",
+        "android_client_info": {
+          "package_name": "br.com.androidpro.grupodeestudosmusicais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124506669034-nleodglevh4jth7o325ofpvc73vpp2cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.androidpro.grupodeestudosmusicais",
+            "certificate_hash": "7501b0a58344b6f325bd10dc7a4fd26989548c14"
+          }
+        },
+        {
+          "client_id": "124506669034-8u0mgv6beq01tfqq5kp535a11mdfe218.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tKFgtIHg3TIURbT_o3dcefLPWJaePy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124506669034-8u0mgv6beq01tfqq5kp535a11mdfe218.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
